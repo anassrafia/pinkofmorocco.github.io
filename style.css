@@ -1,0 +1,36 @@
+body{
+	margin: 0;
+}
+
+header{
+	padding: 25px;
+	background-color: gray;
+	text-align: center;
+}
+a{
+color: white;
+text-decoration: none;	
+}
+.div1{
+	background-color: gray;
+	width: 10px;
+	height: 20px;
+	margin-top: -75px;
+	padding-left: 20px;
+	transition: 0.5s;
+}
+.input1{
+	margin-top: 150px;
+	width: 300px;
+	height: 30px;
+
+}
+.input2{
+		width: 50px;
+	height: 36px;
+	margin-left: -5px;
+}
+iframe{
+	width: 50%;
+	height: 600px;
+}
